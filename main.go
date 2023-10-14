@@ -70,7 +70,6 @@ func createCSVFileWithHeader(fileName string) {
 		"背景と経歴",
 		"出身地",
 		"過去の出来事",
-		"性格と特徴",
 		"性格",
 		"目標と欲望",
 		"強みと弱点",
